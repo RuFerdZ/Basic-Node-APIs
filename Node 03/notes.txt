@@ -1,0 +1,22 @@
++ The package.json is the project manifest file
+
+Global (-g)
++ unless globalized the module is only available in the project folder that it is installed on 
+
+
+REST API
+-CRUD
+
+HTTP methods
+-POST
+-GET
+-PUT
+-DELETE
+
+PGPD=CRUD
+
+
+every request has
+=+-params
+=query params
+=body
